@@ -5,7 +5,7 @@ ARM STM32F405 microcontroller SMT to though-hole adapter card for the Touch Acti
 This repo contains the EAGLE board and schematic files along with the generated Gerber files.
 
 
-## Images
+## STM32F405 card
 
 STM32F405 cards fresh from the PCB fab house
 ![STM32F405 cards](images/stm32f405_card_01.jpg)
