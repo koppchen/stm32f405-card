@@ -21,8 +21,10 @@ Finished card with the 218 Rev 2.0
 
 | Value   | QTY | Description | Mouser Part # |
 |:--------|:---:|:------------|:--------------|
-| STM32F405RGT6 | 1 | ARM Microcontroller - MCU ARM M4 1024 FLASH 168 Mhz 192kB SRAM | [511-STM32F405RGT6][arm_mcu] |
-|  | 4 | Pin Strip Header - 16 Pin (Male) | [517-929700-01-16][pin_header] |
+| STM32F405RGT6 | 1 | ARM Microcontroller - MCU ARM M4 1024 FLASH 168 Mhz 192kB SRAM | [511-STM32F405RGT6][arm-mcu] |
+|  | 4 | Pin Strip Header - 16 Pin (Male) | [517-929700-01-16][pin-header] |
+|  | 4 | Pin Strip Header - 16 Pin Socket (Female) | [517-929974-01-16-RK][pin-socket]
 
-[arm_mcu]: https://www.mouser.com/ProductDetail/511-STM32F405RGT6
-[pin_header]: https://www.mouser.com/ProductDetail/517-929700-01-16
+[arm-mcu]: https://www.mouser.com/ProductDetail/511-STM32F405RGT6
+[pin-header]: https://www.mouser.com/ProductDetail/517-929700-01-16
+[pin-socket]: https://www.mouser.com/ProductDetail/517-929974-01-16-RK
